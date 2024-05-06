@@ -1,0 +1,5 @@
+Bencher-ScenarioBundle-Graphics-ColorNames-*
+.build
+*~
+nytprof*
+.DS_Store
